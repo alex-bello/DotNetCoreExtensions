@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\NetStandardExtensions\NetStandardExtensions.csproj" />
+    <ProjectReference Include="..\..\src\DotNetCoreExtensions\DotNetCoreExtensions.csproj" />
   </ItemGroup>
 
 </Project>

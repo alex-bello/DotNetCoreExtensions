@@ -1,4 +1,4 @@
-namespace NetStandardExtensions.Strings
+namespace DotNetCoreExtensions.Strings
 {
     public static partial class StringExtensions
     {

@@ -1,8 +1,8 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NetStandardExtensions.Dates;
+using DotNetCoreExtensions.Dates;
 
-namespace NetStandardExtensions.Tests
+namespace DotNetCoreExtensions.Tests
 {
     [TestClass]
     public class DateTests

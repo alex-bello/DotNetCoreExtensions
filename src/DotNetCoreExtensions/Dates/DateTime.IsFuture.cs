@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NetStandardExtensions.Dates
+namespace DotNetCoreExtensions.Dates
 {
     public static partial class DateTimeExtensions
     {
